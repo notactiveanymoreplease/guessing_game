@@ -1,6 +1,6 @@
 import random
 
-highest = 1000
+highest = 1000      #assigning a variable allows you to make a single change to the values you want at the highest side of your game
 answer = random.randint(1, highest)
 
 guess = 1024        #you can use anything that's not b/w 1 and 1000
